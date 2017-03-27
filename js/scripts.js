@@ -17,7 +17,7 @@ $(document).ready(function(){
         newArr.push(word);
       }
     });
-
+     newArr.reverse();
 
     alert(newArr);
   });
